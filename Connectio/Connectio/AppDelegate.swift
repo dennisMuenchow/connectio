@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Connectio
 //
-//  Created by Dennis Münchow on 17.09.23.
+//  Created by Dennis Münchow on 18.09.23.
 //
 
 import UIKit
